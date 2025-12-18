@@ -21,9 +21,17 @@
 9. open terminal 
     write npm run start 
 
+method-1
 git - repo create
 git  clone <link>
 git add . / git add index.html
 git commit -m "msg"
 git push origin main
 
+method-2
+folder - computer
+git init
+git remote add <link>
+git add .
+git commit -m "msg"
+git push origin main
